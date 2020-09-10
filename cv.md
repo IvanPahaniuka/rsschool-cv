@@ -14,3 +14,18 @@
 
 Найти работу и получить первый опыт работы в команде
 
+### НАВЫКИ
+
+C#, Asp Net Core, Entity Framework, WPF, JS, CSS, HTML, My SQL, Node JS, PHP, Git 
+
+### ОПЫТ РАБОТЫ
+
+Нет
+
+### ПРИМЕРЫ РАБОТ (КОД)
+
+https://github.com/IvanPoganiuko
+
+### АНГЛИЙСКИЙ
+
+A2
